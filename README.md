@@ -1,7 +1,7 @@
 # Football-Player-Web-Scrape
 Web scraped football player data analysed. (Scraped using python)
 
-This data was then used with the scraped transfer fees (and adjusted for inflation) to see which football attributes impact transfer fee.#
+This data was then used with the scraped transfer fees (and adjusted for inflation) to see which football attributes impact transfer fee.
 
 For example, 1 key pass per game increases the transfer fe by 8000%!
 
